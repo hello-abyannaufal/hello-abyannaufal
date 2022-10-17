@@ -1,4 +1,4 @@
-# Hello World!, I'm Naufal! Welcome to my github!
+# Hello World! I'm Naufal! Welcome to my github!
 
 ## I'm a Data Science Enthusiast
 
