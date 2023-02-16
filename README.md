@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to playing guitar and piano
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hello-abyannaufal&show_icons=true&locale=en" alt="rezanurrochmat13" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezanurrochmat13&show_icons=true&locale=en&layout=compact" alt="rezanurrochmat13" />\n</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezanurrochmat13&show_icons=true&locale=en&layout=compact" alt="rezanurrochmat13" /></p><br>
 
 ## Connect with me:
 
