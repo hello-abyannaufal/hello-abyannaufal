@@ -1,6 +1,6 @@
 # Hello World! I'm Naufal! Welcome to my github!
 
-## I'm a Data Science Enthusiast
+## I'm a Frontend Web Developer
 
 - 🔭 I'm currently freshgraduated from my college, Dian Nuswantoro University
 - 🌱 I'm currently learning Fullstack and Data Science
@@ -15,6 +15,8 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hello-abyannaufal&show_icons=true&locale=en" alt="rezanurrochmat13" /></p>
 
 [//]: <>
 [website]: http://abyannaufal.netlify.app
