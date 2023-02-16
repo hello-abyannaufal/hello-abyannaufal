@@ -1,4 +1,4 @@
-# Hello World! I'm Naufal! Welcome to my github!
+<h1 align="center"> Hello World! I'm Naufal! Welcome to my github! <h1/>
 
 ## I'm a Frontend Web Developer
 
@@ -10,10 +10,10 @@
 
 ## Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hello-abyannaufal&show_icons=true&locale=en" alt="hello-abyannaufal" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezanurrochmat13&show_icons=true&locale=en&layout=compact" alt="hello-abyannaufal"/></p>
+
 
 <h2>Connect with me:<h2/>
-<a href="http://abyannaufal.netlify.app" target="blank">
+ <a href="http://abyannaufal.netlify.app" target="blank">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCW9GNnKj-FdeYQyDszXELqg" target="blank">
@@ -27,12 +27,4 @@
 </a>
 <a href="https://www.instagram.com/abyannaufal27/" target="blank">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-  
-[//]: <>
-[website]: http://abyannaufal.netlify.app
-[youtube]: https://www.youtube.com/channel/UCW9GNnKj-FdeYQyDszXELqg
-[twitter]: https://twitter.com/abyannaufal27
-[linkedin]: https://www.linkedin.com/in/mohamad-abyannaufal-aditya-kusuma-1626371ba/
-[instagram]: https://www.instagram.com/abyannaufal27/
-
+</a><br/>
