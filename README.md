@@ -17,7 +17,7 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hello-abyannaufal&show_icons=true&locale=en" alt="rezanurrochmat13" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezanurrochmat13&show_icons=true&locale=en&layout=compact" alt="rezanurrochmat13" /></p>
 [//]: <>
 [website]: http://abyannaufal.netlify.app
 [youtube]: https://www.youtube.com/channel/UCW9GNnKj-FdeYQyDszXELqg
