@@ -57,7 +57,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hello-abyannaufal&show_icons=true&locale=en&layout=compact" alt="hello-abyannaufal" />
 </p>
 
-<p align="center">
+<div align="center">
  <h3>Let's Connect!</h3>
  <a href="https://www.linkedin.com/in/abyannaufal27">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
@@ -65,4 +65,4 @@
  <a href="https://twitter.com/abyannaufal27">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="50" height="50"/>
  </a>
-</p>
+</div>
